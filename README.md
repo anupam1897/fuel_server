@@ -1,8 +1,9 @@
 # Fuel Flask Server
 
-##Overview
+## Overview
+
 This Flask server serves as the backend infrastructure for the "Fuel" Flutter app, providing a reliable and efficient platform for managing fuel-related data. The server is designed to seamlessly handle data retrieval ensuring a smooth experience for users of the "Fuel" app.
-Get to flutter fuel app at https://github.com/anupam1897/fuel
+Get the Fuel app at https://github.com/anupam1897/fuel
 
 ## Live Server
 
@@ -64,40 +65,7 @@ The server will be running at http://localhost:8080 by default.
 Authentication mechanisms: None
 
 Deployment
-The Flask server is deployed on an AWS EC2 instance for optimal scalability and availability. [Provide additional deployment instructions if needed.]
-
-## Acknowledgments
-
-I would like to express my gratitude to the following open-source projects and their contributors, whose work has significantly contributed to the development of my Flutter application:
-
-- [flutter_svg](https://pub.dev/packages/flutter_svg) v2.0.9
-
-  - Thank you to the developers for providing a versatile SVG rendering library for Flutter, enhancing my app's visual elements.
-
-- [intl](https://pub.dev/packages/intl) v0.19.0
-
-  - Special thanks to the intl package contributors for their efforts in making internationalization and localization seamless in Flutter.
-
-- [video_player](https://pub.dev/packages/video_player) v2.8.2
-
-  - I appreciate the video_player team for creating a robust video playback solution, improving the multimedia experience in my app.
-
-- [provider](https://pub.dev/packages/provider) v6.1.1
-
-  - Kudos to the provider package maintainers for offering a powerful state management solution that simplifies my app's architecture.
-
-- [google_fonts](https://pub.dev/packages/google_fonts) v4.0.4
-
-  - Thanks to the google_fonts developers for providing an easy-to-use package that enhances my app's typography.
-
-- [connectivity](https://pub.dev/packages/connectivity) v3.0.6
-
-  - A big shoutout to the connectivity package maintainers for their work in enabling my app to monitor network connectivity seamlessly.
-
-- [lottie](https://pub.dev/packages/lottie) v1.0.1
-  - My appreciation goes to the lottie package contributors for integrating Lottie animations into Flutter, adding a dynamic visual element to this app.
-
-I extend my heartfelt thanks to all the open-source contributors who dedicate their time and effort to building these fantastic packages, making the Flutter development community thrive.
+The Flask server is deployed on an AWS EC2 instance for optimal scalability and availability.
 
 ## For Recruiters
 
