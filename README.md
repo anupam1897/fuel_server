@@ -64,7 +64,8 @@ The server will be running at http://localhost:8080 by default.
 
 Authentication mechanisms: None
 
-Deployment
+### Deployment
+
 The Flask server is deployed on an AWS EC2 instance for optimal scalability and availability.
 
 ## For Recruiters
