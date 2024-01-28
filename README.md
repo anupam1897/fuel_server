@@ -12,7 +12,7 @@ Host: AWS EC2 (Amazon Linux) \
 
 ## Base URL
 
-base_url: http://54.165.87.139:8080/api/v1 \
+base_url: http://54.165.87.139:8080/api/v1 
 
 For now all routes are public.
 
